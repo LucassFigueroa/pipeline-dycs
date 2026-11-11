@@ -1,4 +1,4 @@
-# Laboratorio: mi primer pipeline CI/CD con GitHub Actions
+# Laboratorio:  pipeline CI/CD con GitHub Actions
 
 **Asignatura:** Seguridad y Calidad en el Desarrollo de Software (ISY1102)
 
